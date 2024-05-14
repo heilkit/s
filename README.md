@@ -3,5 +3,5 @@
 
 ### tmux
 ```shell
-mkdir -p ~/.config && cd ~/.config && wget -o .tmux.conf https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf && cd -
+mkdir -p ~/.config && cd ~/.config && wget https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf && cd -
 ```
